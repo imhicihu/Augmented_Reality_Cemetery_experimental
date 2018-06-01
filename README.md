@@ -10,8 +10,9 @@ Once done the Digital 3d reconstruction of a Patagonian cemetery, it enable us t
 * Version 1.1
 
 ### Procedures ###
-* Download the [AR Maker](https://bitbucket.org/imhicihu/ar-cemetery-experimental/downloads/ARMaker.pdf). Then print it to A4 page size
-![marker.jpg](https://bitbucket.org/repo/akGo9kM/images/976313947-marker.jpg)
+
+* Download the [AR Maker](https://bitbucket.org/imhicihu/ar-cemetery-experimental/downloads/ARMaker.pdf) from our `Downloads` section. Then print it to A4 page size
+ ![marker.jpg](https://bitbucket.org/repo/akGo9kM/images/976313947-marker.jpg)
 * Download the [ARMedia player for IOS](https://itunes.apple.com/ar/app/armedia-player/id502524441?mt=8) or [ARMedia player for Android](https://play.google.com/store/apps/details?id=com.inglobetechnologies.armedia.player)
 * Download the model supplied in the `Downloads` section
 * Open this file in ARMedia player. A notification will appear alerting you to a new model is in your library.
