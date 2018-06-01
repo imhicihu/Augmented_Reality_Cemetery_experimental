@@ -3,6 +3,11 @@
 Once done the Digital 3d reconstruction of a Patagonian cemetery, it enable us to represent it in `augmented reality` mode.
 ![1417132550-virtual_reality.png](https://bitbucket.org/repo/akGo9kM/images/2168235008-1417132550-virtual_reality.png)
 
+### What is this repository for? ###
+
+* _Process-workflow-description_ turning a 2d object and virtually transform to 3d digital asset. 
+* Version 1.1
+
 ### Procedures ###
 * Download the [AR Maker](https://bitbucket.org/imhicihu/ar-cemetery-experimental/downloads/ARMaker.pdf). Then print it to A4 page size
 * Download the [ARMedia player for IOS](https://itunes.apple.com/ar/app/armedia-player/id502524441?mt=8) or [ARMedia player for Android](https://play.google.com/store/apps/details?id=com.inglobetechnologies.armedia.player)
@@ -25,3 +30,7 @@ Once done the Digital 3d reconstruction of a Patagonian cemetery, it enable us t
 
 ### Legal ###
 * All trademarks are the property of their respective owners.
+
+### Copyright ###
+![88x31.png](https://bitbucket.org/repo/4pKrXRd/images/3902704043-88x31.png)
+This work is licensed under a [Creative Commons Attribution-ShareAlike 2.0 Generic License](http://creativecommons.org/licenses/by-sa/2.0/).
