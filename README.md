@@ -16,6 +16,7 @@ Once done the Digital 3d reconstruction of a Patagonian cemetery, it enable us t
 * Download the [ARMedia player for IOS](https://itunes.apple.com/ar/app/armedia-player/id502524441?mt=8) or [ARMedia player for Android](https://play.google.com/store/apps/details?id=com.inglobetechnologies.armedia.player)
 * Download the model supplied in the `Downloads` section
 * Open this file in ARMedia player. A notification will appear alerting you to a new model is in your library.
+ ![IMG_3904.PNG](https://bitbucket.org/repo/akGo9kM/images/2270905424-IMG_3904.PNG)
 * Refresh your library. Set `cartel tirado sobre el mar.armedia` as the default model by clicking the star option.
 * Point your device to the `ARMaker.pdf` already printed and tap to augment!
 
