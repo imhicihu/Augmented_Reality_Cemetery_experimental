@@ -2,6 +2,7 @@
 
 Once done the Digital 3d reconstruction of a Patagonian cemetery, it enable us to represent it in `augmented reality` mode.
 ![1417132550-virtual_reality.png](https://bitbucket.org/repo/akGo9kM/images/2168235008-1417132550-virtual_reality.png)
+![cartel.png](https://bitbucket.org/repo/akGo9kM/images/1524102738-cartel.png)
 
 ### What is this repository for? ###
 
