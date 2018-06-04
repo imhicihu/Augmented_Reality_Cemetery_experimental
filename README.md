@@ -23,6 +23,7 @@ So, this is a minimal portion of the whole project.
 * Point your device to the `ARMaker.pdf` already printed and tap to augment!
 * [Here](https://vimeo.com/273370855) can be seen all of this actions
 ![vimeo.png](https://bitbucket.org/repo/akGo9kM/images/2005146184-vimeo.png)
+> _Vide_: https://vimeo.com/273370855
 
 ### Issues ###
 
