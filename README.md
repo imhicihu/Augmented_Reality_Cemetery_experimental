@@ -6,7 +6,7 @@ So, this is a minimal portion of the whole project.
 
 ### What is this repository for? ###
 
-* _Process-workflow-description_ turning a 2d object and virtually transform to 3d digital asset. 
+* _Process-workflow-checklist_ turning a 2d object and virtually transform it to 3d augmented reality object. 
 * Version 1.1
 
 ### Procedures ###
@@ -30,6 +30,10 @@ So, this is a minimal portion of the whole project.
 * Check them on [here](https://bitbucket.org/imhicihu/incunnabilia-early-book-digitization/issues) 
 * [![Bitbucket issues](https://img.shields.io/badge/issues-open-green.svg)]()
 
+### Changelog ###
+
+* Please check the [Commits](https://bitbucket.org/imhicihu/ar-cemetery-experimental/commits/) section for the current status
+
 ### Who do I talk to? ###
 
 * Repo owner or admin
@@ -38,6 +42,7 @@ So, this is a minimal portion of the whole project.
      - Our [Board](https://bitbucket.org/imhicihu/ar-cemetery-experimental/addon/trello/trello-board) is enabled and open to any inquiry. (You need a [Trello](https://trello.com/) account)
 
 ### Legal ###
+
 * All trademarks are the property of their respective owners.
 
 ### Copyright ###
