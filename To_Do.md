@@ -1,3 +1,4 @@
+* update rss feed because it change the name of this repo (URGENT)
 * ~~add avatar~~
 * ~~add Worklow (from the Chapman issue of 2016!)~~
 * ~~Aadd .gitignore, .ignoreconfig, .editconfig.~~A
