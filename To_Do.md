@@ -1,4 +1,6 @@
 * update rss feed because it change the name of this repo (URGENT)
+* update metadata and marker to the 3D model
+* update graphics to represent new data added
 * ~~add avatar~~
 * ~~add Worklow (from the Chapman issue of 2016!)~~
 * ~~Aadd .gitignore, .ignoreconfig, .editconfig.~~A
