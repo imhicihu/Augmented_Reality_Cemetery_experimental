@@ -9,3 +9,4 @@
 * [ARMedia player for Android](https://play.google.com/store/apps/details?id=com.inglobetechnologies.armedia.player)
 * [Aperture](https://github.com/wulkano/aperture): screen recorder by CLI on MacOSX environments
 * [Kap](https://github.com/wulkano/kap) screen recorder
+* [Meshlab](https://github.com/cnr-isti-vclab/meshlab/releases/): mesh edition, correction, conversion & interchange file formats
