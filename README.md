@@ -28,6 +28,12 @@ So, this is a minimal portion of the whole project.
 ![vimeo.png](https://bitbucket.org/repo/akGo9kM/images/2005146184-vimeo.png)
 > _Vide_: https://vimeo.com/273370855
 
+### Related repositories ###
+
+* Some repositories linked with this project:
+     - [Chapman documentary](https://bitbucket.org/imhicihu/chapman-documentary/src/)
+     - [3D Cemetery (Photogrammetry)](https://bitbucket.org/imhicihu/3d-cemetery-photogrammetry/src/) 
+     
 ### Issues ###
 
 * Check them on [here](https://bitbucket.org/imhicihu/incunnabilia-early-book-digitization/issues) 
