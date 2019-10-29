@@ -11,3 +11,4 @@
 * [Kap](https://github.com/wulkano/kap): screen recorder
 * [Clay Viewer](https://github.com/pissang/clay-viewer): 3D model viewer tool
 * [Meshlab](https://github.com/cnr-isti-vclab/meshlab/releases/): mesh edition, correction, conversion & interchange file formats
+* [Instant Meshes](https://github.com/wjakob/instant-meshes): algorithm to implement for an automatic retopology. More data can be found [here](http://igl.ethz.ch/projects/instant-meshes/) 
