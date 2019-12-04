@@ -50,6 +50,10 @@ So, this is a minimal portion of the whole project.
 * Other community or team contact
      - Our [Board](https://bitbucket.org/imhicihu/ar-cemetery-experimental/addon/trello/trello-board) is enabled and open to any inquiry. (You need a [Trello](https://trello.com/) account)
 
+### Code of Conduct
+
+* Please, check our [Code of Conduct](https://bitbucket.org/imhicihu/ar-cemetery-experimental/src/master/code_of_conduct.md)
+
 ### Legal ###
 
 * All trademarks are the property of their respective owners.
