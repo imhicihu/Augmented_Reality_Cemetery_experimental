@@ -5,7 +5,7 @@
 
 * This is a collateral project from another one: a virtual 3d reconstruction of a Patagonian cemetery. Once the goal was reached, it enable us to represent it in `augmented reality` mode. 
 So, this is a minimal portion of the whole project. 
-![cartel.png](images/1524102738-cartel.png)
+![camposanto.png](images/final-2016-04-14_transparent.png)
 
 ### What is this repository for? ###
 
@@ -23,9 +23,11 @@ So, this is a minimal portion of the whole project.
 ![IMG_3910.PNG](images/2222360397-IMG_3910.PNG)
 ![IMG_3911.PNG](images/3611981674-IMG_3911.PNG)
 * Point your device to the `ARMaker.pdf` already printed and tap to augment!
+![cartel.png](images/1524102738-cartel.png)
 * [Here](https://vimeo.com/273370855) can be seen all of this actions
 - ![vimeo.gif](images/AR.gif)
 > _Vide_: https://vimeo.com/273370855
+
 
 ### Related repositories ###
 
