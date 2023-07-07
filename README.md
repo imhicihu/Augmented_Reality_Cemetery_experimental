@@ -18,10 +18,10 @@ So, this is a minimal portion of the whole project.
 * Download the [ARMedia player for IOS](https://itunes.apple.com/ar/app/armedia-player/id502524441?mt=8) or [ARMedia player for Android](https://play.google.com/store/apps/details?id=com.inglobetechnologies.armedia.player)
 * Download the model supplied in the `Downloads` folder
 * Open this file in ARMedia player. A notification will appear alerting you to a new model is in your library.
-![IMG_3912.PNG](images/72026351-IMG_3912.PNG)
+![IMG_3912.PNG](images/72026351-IMG_3912.png)
 * Refresh your library. Set `cartel tirado sobre el mar.armedia` as the default model by clicking the `Star` option.
-![IMG_3910.PNG](images/2222360397-IMG_3910.PNG)
-![IMG_3911.PNG](images/3611981674-IMG_3911.PNG)
+![IMG_3910.PNG](images/2222360397-IMG_3910.png)
+![IMG_3911.PNG](images/3611981674-IMG_3911.png)
 * Point your device to the `ARMaker.pdf` already printed and tap to augment!
 ![cartel.png](images/1524102738-cartel.png)
 * [Here](https://vimeo.com/273370855) can be seen all of this actions
