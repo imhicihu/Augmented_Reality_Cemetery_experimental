@@ -5,7 +5,7 @@
 
 * This is a collateral project from another one: a virtual 3d reconstruction of a Patagonian cemetery. Once the goal was reached, it enable us to represent it in `augmented reality` mode. 
 So, this is a minimal portion of the whole project. 
-![camposanto.png](images/final-2016-04-14_transparent.png)
+![camposanto.png](images/final-final_2016-05-16.png)
 
 ### What is this repository for? ###
 
