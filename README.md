@@ -24,7 +24,7 @@ So, this is a minimal portion of the whole project.
 ![IMG_3911.PNG](images/3611981674-IMG_3911.png)
 * Point your device to the `ARMaker.pdf` already printed and tap to augment!
 ![cartel.png](images/1524102738-cartel.png)
-* [Here](https://vimeo.com/273370855) can be seen all of this actions
+* [Here](https://vimeo.com/273370855) can be seen all of these actions
 <img src="images/AR.gif" width="780">
 Vide: https://vimeo.com/273370855
 
