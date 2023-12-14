@@ -4,7 +4,8 @@
 # Rationale
 
 * This is a collateral project from another one: a virtual 3d reconstruction of a Patagonian cemetery. Once the goal was reached, it enable us to represent it in `augmented reality` mode. 
-So, this is a minimal portion of the whole project. 
+So, this is a minimal portion of the whole project.
+* Check out a 3D model [here](https://sketchfab.com/models/7d09135c67064218bd6b673fa9d5f74c)
 ![camposanto.png](images/final-final_2016-05-16.png)
 
 ### What is this repository for? ###
