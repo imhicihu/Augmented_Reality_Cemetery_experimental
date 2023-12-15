@@ -7,6 +7,13 @@
 So, this is a minimal portion of the whole project.
 * Check out a 3D model [here](https://sketchfab.com/models/7d09135c67064218bd6b673fa9d5f74c)
 <BR></BR>
+![render.png](images/wireframe.png)
+![render.png](images/wireframe_01.png)
+![render.png](images/wireframe_02.png)
+![render.png](images/wireframe_03.png)
+![render.png](images/wireframe_04.png)
+![render.png](images/wireframe_06.png)
+![render.png](images/wireframe_07.png)
 ![render.png](images/final-final%20terrain%20modified_2016-12-15_22300200000.png)
 ![render.png](images/final-final%20terrain%20modified_2016-12-15_21423600000.png)
 ![render_101.png](images/final-final%20terrain%20modified_2016-12-15_23293400000.png)
