@@ -6,8 +6,12 @@
 * This is a collateral project from another one: a virtual 3d reconstruction of a Patagonian cemetery. Once the goal was reached, it enable us to represent it in `augmented reality` mode. 
 So, this is a minimal portion of the whole project.
 * Check out a 3D model [here](https://sketchfab.com/models/7d09135c67064218bd6b673fa9d5f74c)
+<BR></BR>
+![render.png](images/final-final%20terrain%20modified_2016-12-15_22300200000.png)
+![render.png](images/final-final%20terrain%20modified_2016-12-15_21423600000.png)
+![render_101.png](images/final-final%20terrain%20modified_2016-12-15_23293400000.png)
 ![camposanto.png](images/final-final_2016-05-16.png)
-![render.png](images/final-final%terrain modified 2016-12-15 23293400000.png)
+
 
 ### What is this repository for? ###
 
