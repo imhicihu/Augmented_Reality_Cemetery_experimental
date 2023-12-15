@@ -34,13 +34,6 @@ So, this is a minimal portion of the whole project.
 <img src="images/AR.gif" width="780">
 Vide: https://vimeo.com/273370855
 
-
-### Related repositories ###
-
-* Some repositories linked with this project:
-     - [Chapman documentary](https://bitbucket.org/imhicihu/chapman-documentary/src/)
-     - [3D Cemetery (Photogrammetry)](https://bitbucket.org/imhicihu/3d-cemetery-photogrammetry/src/)
-
 ### Changelog ###
 
 * Please check the [Commits](https://github.com/imhicihu/Augmented_Reality_Cemetery_experimental/commits/master) section for the current status
