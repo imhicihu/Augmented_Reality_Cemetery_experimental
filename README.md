@@ -7,6 +7,7 @@
 So, this is a minimal portion of the whole project.
 * Check out a 3D model [here](https://sketchfab.com/models/7d09135c67064218bd6b673fa9d5f74c)
 ![camposanto.png](images/final-final_2016-05-16.png)
+![render.png](images/final-final%terrain modified 2016-12-15 23293400000.png)
 
 ### What is this repository for? ###
 
