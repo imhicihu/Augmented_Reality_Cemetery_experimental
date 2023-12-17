@@ -7,6 +7,7 @@
 So, this is a minimal portion of the whole project.
 * Check out a 3D model [here](https://sketchfab.com/models/7d09135c67064218bd6b673fa9d5f74c)
 <BR></BR>
+_Wireframe views_
 ![render.png](images/wireframe.png)
 ![render.png](images/wireframe_01.png)
 ![render.png](images/wireframe_02.png)
@@ -14,6 +15,9 @@ So, this is a minimal portion of the whole project.
 ![render.png](images/wireframe_04.png)
 ![render.png](images/wireframe_06.png)
 ![render.png](images/wireframe_07.png)
+<BR></BR>
+<BR></BR>
+_Render views_
 ![render.png](images/final-final%20terrain%20modified_2016-12-15_22300200000.png)
 ![render.png](images/final-final%20terrain%20modified_2016-12-15_21423600000.png)
 ![render_101.png](images/final-final%20terrain%20modified_2016-12-15_23293400000.png)
@@ -22,7 +26,7 @@ So, this is a minimal portion of the whole project.
 
 ### What is this repository for? ###
 
-* _Process-workflow-checklist_ turning a 2d object and virtually transform it to 3d augmented reality object.
+* _Process-workflow-checklist_ that implies turning a 2d object and virtually _render it_ to 3d augmented reality object.
 
 ### Procedures ###
 
