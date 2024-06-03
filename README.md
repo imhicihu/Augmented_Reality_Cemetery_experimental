@@ -49,10 +49,9 @@ Vide: https://vimeo.com/273370855
 
 * Please check the [Commits](https://github.com/imhicihu/Augmented_Reality_Cemetery_experimental/commits/master) section for the current status
 
-### Who do I talk to? ###
+### Disclaimer
 
-* Repo owner or admin
-     - Contact `imhicihu` at `gmail` dot `com`
+* This repository is for academic purposes only. It is intended for educational and research use, and should not be used for any commercial purposes.
 
 ### Code of Conduct
 
